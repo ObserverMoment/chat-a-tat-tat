@@ -1,9 +1,9 @@
 # Working WebSocket Demo
-A basic chat window which allows for realtime chat using a simple websockets 
+A communal 'freeforall' live chat window which allows for realtime chat using a simple websockets setup.
 
 ## Uses:
 - Node
 - Express
 - Socket.io
 
-# Demo it [here](link)
+# Demo it [HERE ON HEROKU](https://chat-a-tat-tat.herokuapp.com/)
